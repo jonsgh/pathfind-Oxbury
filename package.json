@@ -1,0 +1,19 @@
+{
+  "name": "pathfind",
+  "version": "0.1.0",
+  "description": "Pathfind tech test question",
+  "main": "src/pathfind.ts",
+  "author": "Oxbury Bank",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
